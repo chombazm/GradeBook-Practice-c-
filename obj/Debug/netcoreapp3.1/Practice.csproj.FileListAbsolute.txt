@@ -11,3 +11,16 @@ C:\Users\luxaint\source\repos\Practice\Practice\obj\Debug\netcoreapp3.1\Practice
 C:\Users\luxaint\source\repos\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.dll
 C:\Users\luxaint\source\repos\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.pdb
 C:\Users\luxaint\source\repos\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.genruntimeconfig.cache
+C:\xampp\htdocs\luxaint\c#\practice\practice\bin\Debug\netcoreapp3.1\Practice.exe
+C:\xampp\htdocs\luxaint\c#\practice\practice\bin\Debug\netcoreapp3.1\Practice.deps.json
+C:\xampp\htdocs\luxaint\c#\practice\practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.json
+C:\xampp\htdocs\luxaint\c#\practice\practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.dev.json
+C:\xampp\htdocs\luxaint\c#\practice\practice\bin\Debug\netcoreapp3.1\Practice.dll
+C:\xampp\htdocs\luxaint\c#\practice\practice\bin\Debug\netcoreapp3.1\Practice.pdb
+C:\xampp\htdocs\luxaint\c#\practice\practice\obj\Debug\netcoreapp3.1\Practice.csprojAssemblyReference.cache
+C:\xampp\htdocs\luxaint\c#\practice\practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfoInputs.cache
+C:\xampp\htdocs\luxaint\c#\practice\practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfo.cs
+C:\xampp\htdocs\luxaint\c#\practice\practice\obj\Debug\netcoreapp3.1\Practice.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\luxaint\c#\practice\practice\obj\Debug\netcoreapp3.1\Practice.dll
+C:\xampp\htdocs\luxaint\c#\practice\practice\obj\Debug\netcoreapp3.1\Practice.pdb
+C:\xampp\htdocs\luxaint\c#\practice\practice\obj\Debug\netcoreapp3.1\Practice.genruntimeconfig.cache

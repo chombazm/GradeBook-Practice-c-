@@ -47,24 +47,24 @@ namespace GradeBook
         }
 
 
-        public void GetStatistics()
+        public Statistics GetStatistics()
         {
             var results = new Statistics
             {
-                Avergae = 0.0,
+                Average = 0.0,
                 High = double.MinValue,
                 Low = double.MaxValue,
         };  
 
-            for(var i = 0; i <= grades.Count; i++)
+            for(var i = 0; i < grades.Count; i++)
             {
                 results.High = Math.Max(grades[i], results.High);
                 results.Low = Math.Min(grades[i], results.Low);
-                results.Avergae += grades[i];
+                results.Average += grades[i];
             }
-            results.Avergae /= grades.Count;
-            
-            Console.WriteLine("The Average of {0} is {1}", name , results);
+            results.Average /= grades.Count;
+            return results;
+            //Console.WriteLine("The Average of {0} is {1}", name , results);
         }
 
 

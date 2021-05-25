@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luxaint\\source\\repos\\Practice\\Practice\\Practice.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\luxaint\\c#\\practice\\practice\\Practice.csproj",
       "projectName": "Practice",
-      "projectPath": "C:\\Users\\luxaint\\source\\repos\\Practice\\Practice\\Practice.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\luxaint\\c#\\practice\\practice\\Practice.csproj",
       "packagesPath": "C:\\Users\\luxaint\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luxaint\\source\\repos\\Practice\\Practice\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\luxaint\\c#\\practice\\practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luxaint\\AppData\\Roaming\\NuGet\\NuGet.Config",
